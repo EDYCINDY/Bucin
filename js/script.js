@@ -1,4 +1,3 @@
-<script>
         // !!! GANTI DENGAN URL WEB APP ANDA !!!
         const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyWpgCokR45ULA1XnCqXCtI5bf-OoqVeVV-NlMuZiNbZca4Ar4BpATP1Nw_lQuZYssC/exec";
         // !!! GANTI USERNAME & REPO_NAME untuk preview URL !!!
@@ -99,4 +98,4 @@
                     serverResponseDiv.className = 'error';
                 });
         }
-    </script>
+  
